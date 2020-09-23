@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from django.contrib.auth import logout as auth_logout
 from django.shortcuts import redirect
-from time import sleep
 import requests
 
 #сгенерированные значения для VKapi
